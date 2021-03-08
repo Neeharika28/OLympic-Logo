@@ -1,0 +1,9 @@
+body{
+    background-image:url("Border image.png");
+    background-position: center;
+    background-size: cover;
+}
+#mycanvas{
+    width: 600;
+    border-style: ridge;
+}
